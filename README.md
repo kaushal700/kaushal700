@@ -1,6 +1,6 @@
 # About Me:
 # Hi, I'm Kaushal Kumar<br><br>🚀 Founder & Startup Builder | Cloud & AI Engineer  <br>Building AI-first products across Generative AI, Computer Vision, and SaaS
-# 🔒 🔒 Most of my repositories are private due to startup intellectual property and client projects.
+# 🔒 🔒 🔒  Most of my repositories are private due to startup intellectual property and client projects.
 
 
 ## 🌐 Socials:
