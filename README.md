@@ -1,5 +1,5 @@
 # About Me:
-# Hi, I'm Kaushal Kumar<br><br>🚀 Founder & Startup Builder | 
+# Hi, I'm KAUSHAL<br><br>🚀 Founder & Startup Builder | 
 # 🔒 🔒 🔒  Most of my repositories are private due to startup intellectual property and client projects.
 
 
